@@ -1,0 +1,2 @@
+# Portfolio
+I'm a solid front-end developer, my skills are - Bootstrap, Ui-kit, sass/less/css3,html,js.   I'm working in IT area more of 5 years.   Clean and modular code - it's my point.   I'm a fast learner and can absorb new information and develop all the necessary skills on-the-fly!  Recently I have been interested in AngularJS coding and succsessfully completed a few projects with this technolodgy.   I'm sure - you will be satisfied with the result!
